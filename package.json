@@ -1,0 +1,23 @@
+{
+  "name": "braver-btc-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "@truffle/preserve": "^0.2.17",
+    "eth-lib": "^0.1.29",
+    "ethereumjs-util": "^7.1.5",
+    "etherscan-api": "^10.3.0",
+    "solc-js": "^1.0.1",
+    "truffle-contract": "^4.0.31",
+    "web3": "^4.5.0"
+  }
+}
